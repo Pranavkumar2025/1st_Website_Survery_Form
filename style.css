@@ -1,0 +1,98 @@
+* {
+    background-color: rgb(68, 54, 80);
+}
+
+.heading {
+    text-align: center;
+}
+
+.heading h1 {
+    color: rgb(244, 179, 245);
+    text-shadow: 4px 5xp 10px rgb(226, 43, 64);
+}
+
+.myform {
+    background-color: wheat;
+    border: 8px solid black;
+    width: 60%;
+    height: 65%;
+    margin: auto;
+    border-radius: 4px;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    margin: 8px;
+    padding: 3px;
+}
+
+.form input {
+    padding: 5px;
+    background-color: wheat;
+}
+
+.form label {
+    background-color: wheat;
+}
+
+#role {
+    background-color: wheat;
+}
+
+#role option {
+    background-color: rgb(249, 204, 127);
+}
+
+#role {
+    padding: 5px;
+}
+
+.form textarea {
+    background-color: wheat;
+}
+
+#form1 {
+    background-color: wheat;
+}
+
+#form2 {
+    background-color: wheat;
+}
+
+#form3 {
+    background-color: wheat;
+}
+
+#form4 {
+    background-color: wheat;
+}
+
+#form5 {
+    background-color: wheat;
+}
+
+#form6 {
+    background-color: wheat;
+}
+
+#form7 {
+    background-color: wheat;
+}
+
+#btn {
+    display: block;
+    margin: auto;
+    width: 13%;
+    background-color: black;
+    align-items: center;
+    color: white;
+    margin-bottom: 3px;
+    border-radius: 5px;
+}
+
+#btn:hover {
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
